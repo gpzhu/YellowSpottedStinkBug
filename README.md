@@ -1,3 +1,3 @@
 # YellowSpottedStinkBug
-# Here is the link for interactive mapping potential distirbution of Yellow Spotted Stink Bug
+# This is interactive map that i have prepared for displaying Yellow Spotted Stink Bug potential distirbution.
 #
